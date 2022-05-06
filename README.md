@@ -5,6 +5,7 @@ Computer Eng Student
 --------------------
 
 Computer Science has always been my passion starting from the day I was in 2nd grade high school and we had that one topic in our IT course (it was about visual basic language ) that clicked a button in my mind after seeing what I can do with code, it was just amazing as someone who had no idea about coding and that was the day I decided that I wanna be able to do that forever!.
+So I'm planning to start my journey as a web developer all the way to rock as a Software Engineer!
 
 * 🌍  I'm based in Turkey at the moment
 * 🖥️  See my portfolio at (currently under construction) [My page](http://radwanbek.xyz)
@@ -14,8 +15,7 @@ Computer Science has always been my passion starting from the day I was in 2nd g
 * 🤝  I'm open to collaborating on anything just to gain expand my experience.
 * ⚡  I'm always working on my self to become the best version of my self
 
-<a href="https://www.github.com/RadwanH" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RadwanH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
