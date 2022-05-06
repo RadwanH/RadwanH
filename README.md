@@ -7,7 +7,7 @@ Computer Eng Student
 Computer Science has always been my passion starting from the day I was in 2nd grade high school and we had that one topic in our IT course (it was about visual basic language ) that clicked a button in my mind after seeing what I can do with code, it was just amazing as someone who had no idea about coding and that was the day I decided that I wanna be able to do that forever!.
 
 * 🌍  I'm based in Turkey at the moment
-* 🖥️  See my portfolio at [My page](http://radwanbek.xyz)
+* 🖥️  See my portfolio at (currently under construction) [My page](http://radwanbek.xyz)
 * ✉️  You can contact me at [radwanbek@gmail.com](mailto:radwanbek@gmail.com)
 * 🚀  I'm currently working on [My page](http://radwanbek.xyz)
 * 🧠  I'm learning Full Stack Dev. starting from FrontEnd Dev.
@@ -25,6 +25,17 @@ src="https://img.shields.io/github/followers/RadwanH?logo=github&style=for-the-b
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+### Learning
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+</p>
 </p>
 
 
