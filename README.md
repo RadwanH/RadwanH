@@ -1,60 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!;I'm+Radwan+;Computer+Engineering+Student+;Software+Engineer;Mobile+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 =======================
 
-Computer Eng Student
+## <img align="left" alt="💫" width="100" src="https://raw.githubusercontent.com/RadwanH/MyPortfolio/92232691602b0fa1a95efe1042acf54518b50b7a/images/logo/myLogo.svg?token=ARUFAUGULWAFQ7KWRX57RRTD3V7MS"/>About Me:
 --------------------
 
-Computer Science has always been my passion starting from the day I was in 2nd grade high school and we had that one topic in our IT course (it was about visual basic language ) that clicked a button in my mind after seeing what I can do with code, it was just amazing as someone who had no idea about coding and that was the day I decided that I wanna be able to do that forever!.
-So I'm planning to start my journey as a web developer all the way to rock as a Software Engineer!
-
-* 🌍  I'm based in Turkey at the moment
-* 🖥️  See my portfolio at  [My page](http://radwanbek.me)
-* ✉️  You can contact me at [radwanbek@gmail.com](mailto:radwanbek@gmail.com)
-* 🚀  I'm currently working on [UniMeet](https://radwanh.github.io/UniMeet-Webpage/)
-* 🧠  I'm learning Full Stack Dev, Mobile Dev and Cyber Security.
-* 🤝  I'm open to collaborating on anything just to gain expand my experience.
-* ⚡  I'm always working on my self to become the best version of my self
+I'm a highly motivated computer engineering student with a strong foundation in computer science and problem-solving, I'm eager to apply my technical skills and knowledge in real-world projects and grow as a software engineer.
 
 
-
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
-### Learning
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-</p>
-</p>
+* 🌍  I'm based in Turkey at the moment<br>* 🖥️  See my portfolio at  [My page](http://radwanbek.me)<br>* ✉️  You can contact me at [radwanbek@gmail.com](mailto:radwanbek@gmail.com)<br>* 🚀  I'm currently working on [UniMeet](https://radwanh.github.io/UniMeet-Webpage/)<br>* 🧠  I'm learning Full Stack Dev, Mobile Dev and Cyber Security.<br>* 🤝  I'm open to collaborating on anything just to gain expand my experience.<br>* ⚡  I'm always working on my self to become the best version of my self
 
 
-### Socials
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Raz#9065) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radwanbek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radwanbek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/radwanbek) 
 
-<p align="left"> <a href="https://discord.com/users/Raz#9065" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RadwanH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@radwan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/radwanbek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/radwanbek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/radwanbek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RadwanH&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RadwanH&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadwanH&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### Badges
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RadwanH&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
-<b>My GitHub Stats</b>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=radwanbek)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<a href="http://www.github.com/RadwanH"><img src="https://github-readme-stats.vercel.app/api?username=RadwanH&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RadwanH's GitHub stats" /></a>
-
-<a href="http://www.github.com/RadwanH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RadwanH&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/RadwanH"><img src="https://activity-graph.herokuapp.com/graph?username=RadwanH&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/RadwanH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadwanH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/RadwanH/MyWeb3.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RadwanH&repo=MyWeb3.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RadwanH/University-Club-Membership" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RadwanH&repo=University-Club-Membership&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
