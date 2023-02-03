@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!;I'm+Radwan+;Computer+Engineering+Student+;Software+Engineer;Mobile+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 =======================
 
-## <img align="left" alt="💫" width="100" src="https://raw.githubusercontent.com/RadwanH/MyPortfolio/92232691602b0fa1a95efe1042acf54518b50b7a/images/logo/myLogo.svg?token=ARUFAUGULWAFQ7KWRX57RRTD3V7MS"/>About Me:
+##💫  About Me: 
 --------------------
 
 I'm a highly motivated computer engineering student with a strong foundation in computer science and problem-solving, I'm eager to apply my technical skills and knowledge in real-world projects and grow as a software engineer.
