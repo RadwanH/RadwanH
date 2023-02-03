@@ -8,10 +8,10 @@ Computer Science has always been my passion starting from the day I was in 2nd g
 So I'm planning to start my journey as a web developer all the way to rock as a Software Engineer!
 
 * 🌍  I'm based in Turkey at the moment
-* 🖥️  See my portfolio at (currently under construction) [My page](http://radwanbek.me)
+* 🖥️  See my portfolio at  [My page](http://radwanbek.me)
 * ✉️  You can contact me at [radwanbek@gmail.com](mailto:radwanbek@gmail.com)
-* 🚀  I'm currently working on [My page](http://radwanbek.me)
-* 🧠  I'm learning Full Stack Dev. starting from FrontEnd Dev.
+* 🚀  I'm currently working on [UniMeet](https://radwanh.github.io/UniMeet-Webpage/)
+* 🧠  I'm learning Full Stack Dev, Mobile Dev and Cyber Security.
 * 🤝  I'm open to collaborating on anything just to gain expand my experience.
 * ⚡  I'm always working on my self to become the best version of my self
 
