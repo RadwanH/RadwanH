@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/YHDt7yyw2YG3Rg0Zyn/giphy.gif)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!;I'm+Radwan+;Computer+Engineering+Student+;Software+Engineer;Mobile+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 =======================
 
