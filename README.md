@@ -14,7 +14,8 @@ I'm a highly motivated computer engineering student with a strong foundation in 
 * 🌍  I'm based in Turkey at the moment<br>
 * 🖥️  See my portfolio at  [My page](https://radwanbek2.netlify.app/)<br>
 * ✉️  You can contact me at [radwanbek@gmail.com](mailto:radwanbek@gmail.com)<br>
-* 🚀  I'm currently working at [Provolt](https://www.provoltenergy.com/)<br>* 🧠  I do Full Stack Dev, Mobile Dev and Cyber Security.<br>
+* 🚀  I'm currently working at [Provolt](https://www.provoltenergy.com/)<br>
+* 🧠  I do Full Stack Dev, Mobile Dev and Cyber Security.<br>
 * 🤝  I'm open to collaborating on anything just to gain expand my experience.<br>
 * ⚡  I'm always working on my self to become the best version of my self
 
